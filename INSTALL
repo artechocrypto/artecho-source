@@ -1,0 +1,9 @@
+Building ARTECHO
+
+See doc/readme-qt.rst for instructions on building ARTECHO QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ARTECHO.
+
+See doc/build-*.txt for instructions on building artechod,
+the intended-for-services, no-graphical-interface, reference
+implementation of ARTECHO.
